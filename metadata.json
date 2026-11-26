@@ -1,0 +1,8 @@
+{
+  "name": "NIME Music (5)",
+  "description": "New Instrument for Musical Expression: spontaneous tactile sound sculpting, tilt modulation, looping, and AI music generation",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

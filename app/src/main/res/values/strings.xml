@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NIME Music</string>
+    <string name="backing_track_creating">Creating atmosphere...</string>
+    <string name="backing_track_fading_in">ATMOS FADING IN</string>
+    <string name="backing_track_on">ATMOS ON</string>
+    <string name="backing_track_muted">ATMOS MUTED</string>
+    <string name="backing_track_mute_cd">Mute backing track</string>
+    <string name="backing_track_unmute_cd">Unmute backing track</string>
+</resources>
